@@ -2,17 +2,17 @@
 
 ## Todo
 -[x] Create a new project
--[] Add Tailwind CSS
--[] Add Firebase
--[] Add database
--[] Create Feed
--[] Add authentication
--[] Add sign up
--[] Add sign in
--[] Add sign out
--[] Create Tweet
--[] Delete own Tweet
--[] Like/diss like Tweet
+-[x] Add Tailwind CSS
+-[x] Add Supabase
+-[x] Add database
+-[x] Create Feed
+-[x] Add authentication
+-[x] Add sign up
+-[x] Add sign in
+-[x] Add sign out
+-[x] Create Tweet
+-[x] Delete own Tweet
+
 
 ## Extras
 -[] Comment on tweet
